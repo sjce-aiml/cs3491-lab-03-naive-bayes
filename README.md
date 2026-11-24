@@ -4,6 +4,9 @@
 
 ▶️ **Watch first:** [Lab 03 walkthrough](https://www.youtube.com/@DrAnandharajan) · 📗 **Lesson & quiz:** [https://anandharajan.github.io/gradient-edu/#lab-3](https://anandharajan.github.io/gradient-edu/#lab-3)
 
+📘 **Lab manual (Ex.No 3):** record notes [Ex.No3.txt](https://github.com/Anandharajan/AIML_Lab/blob/main/experiments/Ex03_Naive_Bayes/Ex.No3.txt). Use them for Aim/Procedure in REPORT.md and your record. The reference program unlocks in the app once you score 60%.
+
+
 ## Your task
 Open `src/lab03.py` and implement every function marked `TODO`. Do **not** rename functions or
 change their parameters — the autograder calls them exactly as written.
